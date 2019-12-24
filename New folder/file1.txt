@@ -1,0 +1,233 @@
+total 116
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Dec 19 15:32 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089    32 Dec 19 15:31 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+total 117
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089   699 Dec 19 15:32 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089    33 Dec 19 15:32 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+total 120
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089  1398 Dec 19 15:32 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   128 Dec 19 15:34 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+ls: cannot access '+al': No such file or directory
+ls: cannot access '+al': No such file or directory
+ls: cannot access '+al': No such file or directory
+ls: cannot access '+al': No such file or directory
+ls: cannot access 'date': No such file or directory
+ls: cannot access '+al': No such file or directory
+ls: cannot access 'NOW=2019-12-19': No such file or directory
+ls: cannot access '+al': No such file or directory
+ls: cannot access '+al': No such file or directory
+ls: cannot access '+al': No such file or directory
+ls: cannot access '+al': No such file or directory
+ls: cannot access 'printf': No such file or directory
+ls: cannot access '%s %s\n': No such file or directory
+ls: cannot access 'Thu, Dec 19, 2019  3:44:28 PM': No such file or directory
+ls: cannot access 'printf': No such file or directory
+ls: cannot access '%s %s\n': No such file or directory
+ls: cannot access 'Thu, Dec 19, 2019  3:44:47 PM': No such file or directory
+total 120
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089  3042 Dec 19 15:44 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   135 Dec 19 15:45 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+ls: cannot access 'printf': No such file or directory
+ls: cannot access '%s %s\n': No such file or directory
+ls: cannot access 'Thu, Dec 19, 2019  3:45:36 PM': No such file or directory
+total 120
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089  3927 Dec 19 15:45 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   169 Dec 19 15:48 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+total 124
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089  4626 Dec 19 15:48 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   188 Dec 19 15:49 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+printf '%s %s\n' Thu, Dec 19, 2019 3:49:14 PM
+total 124
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089  5371 Dec 19 15:49 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   181 Dec 19 15:49 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+Thu, Dec 19, 2019  3:49:39 PM 
+ls: cannot access 'al': No such file or directory
+Thu, Dec 19, 2019  3:50:00 PM 
+ls: cannot access '+al': No such file or directory
+ls: cannot access 'al': No such file or directory
+ls: cannot access 'al': No such file or directory
+ls: cannot access 'al': No such file or directory
+ls: cannot access 'al': No such file or directory
+total 124
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089  6433 Dec 19 15:57 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   160 Dec 19 15:58 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+total 124
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089  7132 Dec 19 15:58 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   171 Dec 19 16:00 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+total 124
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089  7831 Dec 19 16:00 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   176 Dec 19 16:00 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+total 128
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089  8530 Dec 19 16:00 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   208 Dec 19 16:02 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+Time: Thu, Dec 19, 2019  4:02:32 PM. Some error info.
+ls: cannot access '+al': No such file or directory
+ls: cannot access '+al': No such file or directory
+Time: Thu, Dec 19, 2019  4:03:42 PM
+ls: cannot access '+al': No such file or directory
+Time: Thu, Dec 19, 2019  4:04:33 PM
+Time: Thu, Dec 19, 2019  4:05:03 PM
+ls: cannot access '+al': No such file or directory
+Time: Thu, Dec 19, 2019  4:05:36 PM
+total 128
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089  9631 Dec 19 16:05 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   196 Dec 19 16:05 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+Time: Thu, Dec 19, 2019  4:06:05 PM
+total 128
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089 10366 Dec 19 16:06 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   204 Dec 19 16:06 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+total 128
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089 11065 Dec 19 16:06 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   204 Dec 19 16:06 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+Time: Thu, Dec 19, 2019  4:07:49 PM
+total 128
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089 11800 Dec 19 16:07 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   227 Dec 19 16:07 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
+./open.sh: line 3: /c/Users/saiyyadhussain/Desktop/RDS/Shell: Is a directory
+total 132
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Dec 19 15:32 .
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov  8 15:47 ..
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 24 15:34 .vscode
+-rw-r--r-- 1 saiyyadhussain 1049089     0 Nov 24 15:56 10
+-rw-r--r-- 1 saiyyadhussain 1049089 12576 Dec 19 16:07 file1.txt
+-rw-r--r-- 1 saiyyadhussain 1049089   512 Dec 18 13:41 love.py
+-rwxr-xr-x 1 saiyyadhussain 1049089   159 Dec 19 16:09 open.sh
+drwxr-xr-x 1 saiyyadhussain 1049089     0 Nov 14 15:01 ShellScript
+-rwxr-xr-x 1 saiyyadhussain 1049089   339 Dec 18 16:46 test.sh
+-rwxr-xr-x 1 saiyyadhussain 1049089   467 Nov 26 17:22 testh.sh
+-rw-r--r-- 1 saiyyadhussain 1049089 54899 Dec 19 10:40 variable.png
